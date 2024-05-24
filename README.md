@@ -1,1 +1,1 @@
-# pet_litter_management
+# Pet Litter Management
